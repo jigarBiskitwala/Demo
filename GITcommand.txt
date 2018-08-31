@@ -12,5 +12,8 @@ git add .                        Dot mins all files change or you can give parti
 git commit -m "Init"
 git push origin master
 
+git config --local credential.helper ""   //new credentials configure
+git push origin master
 
 
+https://github.com/jigargolaniya/testingDemo.git
